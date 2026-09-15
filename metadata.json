@@ -1,0 +1,6 @@
+{
+  "name": "DashCam Cloud",
+  "description": "Smart dash cam app with loop recording, G-sensor incident detection, speed tracking, and automatic Google Drive backups.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
